@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/davidtsadler/ebay-sdk-half-finding.svg?branch=develop)](https://travis-ci.org/davidtsadler/ebay-sdk-half-finding)
 
-This project enables PHP developers to use the [eBay API](https://go.developer.ebay.com/developers/ebay/documentation-tools/) in their PHP code, and build software using the [Half Finding](http://developer.ebay.com/devzone/half-finding/Concepts/HalfFindingGuide.html) service. You can get started by [installing the SDK via Composer](http://devbay.net/sdk/guides/installation/) and by following the [Getting Started Guide](http://devbay.net/sdk/guides/getting-started/).
+This project enables PHP developers to use the [eBay API](https://go.developer.ebay.com/developers/ebay/documentation-tools/) in their PHP code, and build software using the [Half Finding](http://developer.ebay.com/devzone/half-finding/Concepts/HalfFindingAPIGuide.html) service. You can get started by [installing the SDK via Composer](http://devbay.net/sdk/guides/installation/) and by following the [Getting Started Guide](http://devbay.net/sdk/guides/getting-started/).
 
 ## Features
 
