@@ -28,7 +28,7 @@ This project enables PHP developers to use the [eBay API](https://go.developer.e
 
 ## Installation
 
-The SDK can be installed with [Composer](http://getcomposer.org/).
+The SDK can be installed with [Composer](http://getcomposer.org/). Please see the [Installation section of the User Guide](http://devbay.net/sdk/guides/installation/) to learn about installing through other means.
 
   1. Install Composer.
 
