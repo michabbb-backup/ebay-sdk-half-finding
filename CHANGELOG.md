@@ -1,5 +1,11 @@
 # CHANGELOG
 
+## Unreleased
+
+### Fix
+
+* Update packager to correctly autoload Symfony Event Dispatcher.
+
 ## 0.1.1 - 2015-03-01
 
 ### Features
