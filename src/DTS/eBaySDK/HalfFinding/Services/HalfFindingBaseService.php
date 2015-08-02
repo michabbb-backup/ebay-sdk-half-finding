@@ -25,7 +25,7 @@ class HalfFindingBaseService extends \DTS\eBaySDK\Services\BaseService
     /**
      * @var string Current version of the SDK
      */
-    const VERSION = '0.1.1';
+    const VERSION = '0.1.2';
 
     /**
      * Constants for the various HTTP headers required by the API.
