@@ -1,6 +1,6 @@
 {
     "name": "dts/ebay-sdk-half-finding",
-    "description": "An eBay SDK for PHP. Use the eBay Half Finding API in your PHP projects.",
+    "description": "This SDK is deprecated in favor of https://packagist.org/packages/dts/ebay-sdk-php",
     "keywords": ["ebay", "api", "sdk"],
     "homepage": "http://devbay.net/",
     "type": "library",
@@ -29,6 +29,6 @@
         }
     },
     "suggest": {
-        "dts/ebay-sdk-php": "The SDK has moved to a new package name. The package you have installed, ebay-sdk-half-finding, is deprecated and will reach its end of life on the 6th December 2015."
+        "dts/ebay-sdk-php": "The SDK has moved to a new package name. The package you have installed, ebay-sdk-half-finding, is deprecated and is no longer maintained."
     }
 }
